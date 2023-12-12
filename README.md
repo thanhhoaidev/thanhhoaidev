@@ -1,8 +1,15 @@
-<div align="center">
+:::html
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E134F7&random=false&width=435&lines=Hi%2C+I'm+Hoai!;Web+Developer+from+Viet+Nam;Nice+to+meet+you+%3C3)](https://git.io/typing-svg)
-
-</div>
+<div style="margin-left:90px">
+<p align='center'>
+    <a  href="https://git.io/typing-svg">
+      <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F742E1&random=false&width=435&lines=Welcome+to+my+github!;Nice+to+meet+you+%3C3" alt="readme typing">
+    </a>
+ </p>
+ </div>
+ :::
+ 
+<div> </div>
 <!-- thanhhoaidev -->
 <a href="#" target="_blank">
   <img src="svg/thanhhoaidev.svg" width="1200" alt="nth" />
@@ -84,8 +91,8 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<div>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&animation=default&layout=default&font=defaut)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+ <p align="center"> 
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&animation=default&layout=default&font=defaut" alt="Readme Quotes">
+  </a>
+ </p>

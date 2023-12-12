@@ -1,0 +1,5 @@
+{
+  "markdown-preview-enhanced.usePandocParser": false,
+  "markdown-preview-enhanced.previewTheme": "github-light.css",
+  "markdown-preview-enhanced.enableScriptExecution": true
+}

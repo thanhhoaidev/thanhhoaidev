@@ -1,3 +1,4 @@
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
@@ -6,8 +7,8 @@ name: Generate Snake
 
 on:
   schedule:
-      # run automatically every 24 hours
-    - cron: "0 */24 * * *"
+      # every 6 hours
+    - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:

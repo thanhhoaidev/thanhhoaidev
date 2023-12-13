@@ -18,8 +18,8 @@
 🧑🏻‍💻About Me
 </h3>
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal" target="_blank">
-   <img align="right" alt="Coding" width=45% height=100% src="/images/coder.gif" /></a>
+   <a href="https://github.com/Sabyasachi-Seal" target="_blank" >
+   <img autoplay='true' align="right" alt="Coding" width=45% height=100% src="/images/coder.gif" /></a>
    <p align='left'>
 🌱 My name is Nguyen Thanh Hoai, a Web Developer from Ho Chi Minh, Vietnam. <br>
 ✍️ I am currently learning <code>React ⚛️</code> for Front-End Development.<br>
@@ -129,25 +129,20 @@
  <p align="center">
 
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img height=100% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes">
-
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes">
   </a>
-  
  </p>
 <div align=center>
-
-   <a href="https://github.com/Sabyasachi-Seal">
-   
+   <a href="https://github.com/Sabyasachi-Seal"> 
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-
    </a>
-
 </div>
 <h2 align='center'>Snake is eating my github contributions</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thanhhoaidev/thanhhoaidev/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/thanhhoaidev/thanhhoaidev/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/thanhhoaidev/thanhhoaidev/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/thanhhoaidev/thanhhoaidev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/thanhhoaidev/thanhhoaidev/output/github-contribution-grid-snake.svg">
+
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhhoaidev/thanhhoaidev/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align=center>

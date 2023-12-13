@@ -143,3 +143,19 @@
    </a>
 
 </div>
+<h2 align='center'>Snake is eating my github contributions</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thanhhoaidev/thanhhoaidev/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/thanhhoaidev/thanhhoaidev/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/thanhhoaidev/thanhhoaidev/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align=center>
+
+   <a href="https://github.com/Sabyasachi-Seal">
+   
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+
+   </a>
+
+</div>

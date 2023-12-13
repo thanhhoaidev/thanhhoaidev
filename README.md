@@ -1,11 +1,6 @@
-<style>
-  .ml-100 {
-    margin-left: 100px
-  }
-</style>
 <div >
 <p align='center'>
-    <a class="ml-100" href="https://git.io/typing-svg">
+    <a style='margin-left:100px' href="https://git.io/typing-svg">
       <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F742E1&random=false&width=435&lines=Welcome+to+my+github!;Nice+to+meet+you+%3C3" alt="readme typing">
     </a>
  </p>

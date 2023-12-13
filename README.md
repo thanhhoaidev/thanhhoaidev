@@ -89,6 +89,11 @@
   <a href="#" title="thanhhoaidev">
     <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhhoaidev&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
+  
+  <a href="https://git.io/streak-stats" title="thanhhoaidev">
+    <img align="center" width="435" src="https://github-readme-streak-stats.herokuapp.com?user=thanhhoaidev&theme=tokyonight&hide_border=true" />
+  </a>
+
 </div>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
@@ -121,13 +126,20 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
- <p align="center"> 
+ <p align="center">
+
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes">
+    <img height=100% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes">
+
   </a>
+  
  </p>
 <div align=center>
+
    <a href="https://github.com/Sabyasachi-Seal">
+   
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+
    </a>
+
 </div>

@@ -15,7 +15,8 @@
    </a>
 </div>
 <h3 align='center'>
-🧑🏻‍💻About Me
+🧑🏻 💻 About Me 💻 🧑🏻
+
 </h3>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal" target="_blank" >
@@ -33,7 +34,7 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h3 align="center">🛠 Technologies and Tools 🛠</h3>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -80,7 +81,7 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align=center>
   <a href="#" title="thanhhoaidev">
@@ -100,7 +101,7 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
-<h2 align="center">👨🏻‍💻 Where to find me 👨🏻‍💻</h2>
+<h3 align="center">👨🏻‍💻 Where to find me 👨🏻‍💻</h3>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -124,7 +125,7 @@
    </a>
 </div>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h3 align="center">📑 My Favorites Quote 📑</h3>
 <br>
  <p align="center">
 
@@ -137,7 +138,7 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
-<h2 align='center'>Snake is eating my github contributions</h2>
+<h3 align='center'>🐍The Snake is eating my github contributions🐍</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/thanhhoaidev/thanhhoaidev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/thanhhoaidev/thanhhoaidev/output/github-contribution-grid-snake.svg">
